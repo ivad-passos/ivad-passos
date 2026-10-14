@@ -3,4 +3,5 @@
     <img src="aws-certified-solutions-architect-associate.png" width="150" height="150" alt="AWS Certified Solutions Architect Associate">
   </a>
   <p>Estudante de Engenharia de Computação • SENAI CIMATEC</p>
+  <p>AWS Certified Solutions Architect – Associate</p>
 </div>
